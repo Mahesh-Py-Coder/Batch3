@@ -2,3 +2,5 @@
 
 
 This is a selenium test project
+
+Updated ReadMe
